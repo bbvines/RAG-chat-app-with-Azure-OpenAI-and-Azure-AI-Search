@@ -170,7 +170,7 @@ microsoft-kiota-http==1.11.7
     # via msgraph-core
 microsoft-kiota-serialization-form==1.11.7
     # via msgraph-sdk
-microsoft-kiota-serialization-json==1.11.7
+microsoft-kiota-serialization-json==1.16.0
     # via msgraph-sdk
 microsoft-kiota-serialization-multipart==1.11.7
     # via msgraph-sdk
